@@ -22,4 +22,5 @@ group :development do
   gem 'spring'
 end
 gem 'devise', '~> 3.4', '>= 3.4.1'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 
